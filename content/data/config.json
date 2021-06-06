@@ -14,7 +14,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Services",
             "url": "/store",
             "style": "link"
         },
