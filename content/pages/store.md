@@ -15,7 +15,7 @@ sections:
       - content/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: It has been my mission to document the experiences of everyday people.
     subtitle: make a donation
     image: images/promo.jpg
     background_image: /images/leaf.svg
