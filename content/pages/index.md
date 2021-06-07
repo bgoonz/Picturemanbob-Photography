@@ -7,10 +7,15 @@ sections:
     section_id: hero_section
     background_image: images/caring-coriander.PNG
     background_image_opacity: 75
-    content: |
+    content: |+
       # PicturemanBob
 
-      ![](/\_static/app-assets/bobby.PNG)
+
+
+
+
+      ![](/\_static/app-assets/bobby-photography4.gif)
+
     actions:
       - title: See More
         url: /store
