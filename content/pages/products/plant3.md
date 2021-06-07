@@ -4,7 +4,7 @@ id: '3'
 price: '150.00'
 title: Broadway-Lafayette Station
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/important-turtle.PNG
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
