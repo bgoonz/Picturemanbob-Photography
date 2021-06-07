@@ -14,7 +14,7 @@ sections:
       - question: How long does shipping take?
         answer: |
           ![](/\_static/app-assets/4seasons.PNG)
-      - question: How do refunds and returns work?
+      - question: Why shooting polaroid photos has me excited to wake up in the morning
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
