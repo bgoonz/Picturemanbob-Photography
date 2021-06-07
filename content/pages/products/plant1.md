@@ -37,6 +37,8 @@ seo:
       value: images/plant1-lg.jpg
       relativeUrl: true
   title: face paint
+  robots:
+    - all
 ---
 # Utah
 
