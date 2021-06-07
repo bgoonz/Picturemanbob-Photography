@@ -35,8 +35,7 @@ sections:
     section_id: Shooting Polaroids
     title: Live in Brooklyn
     testimonials:
-      - author:
-          location: 'Colorado, USA'
+      - author: {}
       - author:
           name: Major Payne
           location: 'VA, USA'
