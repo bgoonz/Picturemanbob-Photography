@@ -48,7 +48,7 @@ sections:
       url: /store
       style: primary
       arrow: true
-  - section_id: lorem-ipsum
+  - section_id: Contact
     address: Only call me if you wanna reach me
     phone: +1 201-218-6277
     email: bobywhatsuremail@gmail.com
