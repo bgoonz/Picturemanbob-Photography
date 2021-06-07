@@ -8,7 +8,7 @@ description: >-
   tincidunt.
 default_thumbnail_image: images/66093435_663873930757974_2941047455815812210_n.jpg
 default_original_image: images/plant1-lg.jpg
-featured: false
+featured: true
 order: 1
 seo:
   title: Nulla suscipit
