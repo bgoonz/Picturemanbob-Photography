@@ -17,7 +17,7 @@ sections:
     section_id: promotion_section
     title: It has been my mission to document the experiences of everyday people.
     subtitle: Please consider supporting me in my work.
-    image: images/67782234_352769069005820_4090969684939956149_n.jpg
+    image: images/66385123_1121375561388944_444663649399930161_n (1).jpg
     background_image: images/bridge.PNG
     cta:
       title: Contribute
