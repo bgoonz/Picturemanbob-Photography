@@ -26,8 +26,6 @@ seo:
   type: stackbit_page_meta
 layout: product
 ---
-## Lorem ipsum
-
 P.V Shooting 35mm & Polaroid with Neighbors in New York City from Brooklyn to The Lower East Side! 
 
 In The Neighborhood Episode 1!
@@ -44,13 +42,4 @@ Directed by P.V
 Edited by Cadeem Jabari
 
 SHOP "IN THE NEIGHBORHOOD" [https://www.intheneighborhood.shop/](https://www.youtube.com/redirect?event=video_description\&redir_token=QUFFLUhqbDVEbExlVHpjREo3cDBOVUpzNW1MdVNJdkZTUXxBQ3Jtc0tscmZBYkVBMHFMd0hWaG5Ob0NPTW14T3V0MVVkcmwxSVFBYjlleVRBa2Ric0ZtT0tvd3I0eS1iZFRSZTR1MUlTWHN0NXlJNUU3WkVLNVFRcU94SVBXUV9BWGZjRXRNeU1kQ0ZjOVBvWVNVREFOeUNyQQ\&q=https%3A%2F%2Fwww.intheneighborhood.shop%2F)
-
-MONTHLY RAFFLES! [https://www.intheneighborhood.shop/](https://www.youtube.com/redirect?event=video_description\&redir_token=QUFFLUhqa0VoMnNGZGZJUzkyLUoyUThwdEs4UEszcEd6QXxBQ3Jtc0tsTmpyUHFqUWNKUHRlbVRfbVpIbFJHQXo2dTdWeEI4WHc3MmxTTnBnOXVNZ0N5U21ET2xmOGwtcS1UOEdWd19xQk1leTA4SXJ0WkpWSGdaX3V4SkU0QTc1VXk3bXZTQThKSDZGWV9taGJFdEtmQzE0bw\&q=https%3A%2F%2Fwww.intheneighborhood.shop%2F)[https://www.instagram.com/pvintheneig...](https://www.youtube.com/redirect?event=video_description\&redir_token=QUFFLUhqbXo5WmhBTFlyMl9Nek1Ed0taVm9CQXFLblZld3xBQ3Jtc0ttYi1jVGRyYTRhUEtyemFGX3NzVWlZNGFTTVk0dzhNZEpTZ3hmZnJOSkgtNll6T2hTTGxmVmhURG1VRHNUb1dWd3RyRkdFQ3JpUkZMOFdvQ3lsTFNGblVwM29mX2lLaTBqNkNLOGVkYy1BWVg3UVRhSQ\&q=https%3A%2F%2Fwww.instagram.com%2Fpvintheneighborhood%2F)
-
-SUBSCRIBE TO THE MAILING LIST
-[https://www.intheneighborhood.shop/su...](https://www.youtube.com/redirect?event=video_description\&redir_token=QUFFLUhqbUJlX3BvNHhWQXhSdnpTVjdKU1U1eXEzSHl6QXxBQ3Jtc0ttUGRaN1ZzTVlhZXJxX0JkU3JXQk80UUpvbm1TeTlKRGZCWGZVQlY2LTE4UFdqQ1V4TFNabVpkZ25hUEVKQzBReExaNW1EY0tCZ21MV3ppUXV5SG4zUUFicWJYcHFRd29wallhUWljRHlMWU53d2Yybw\&q=https%3A%2F%2Fwww.intheneighborhood.shop%2Fsubscribe)
-
-DONATE TO THE CHANNEL
-CASHAPP - $PVNYC
-VENMO - INTHENEIGHBORHOOD
 
