@@ -39,7 +39,7 @@ export {
     ProductGrid,
     ProductGridItem,
     PromotionSection,
-    SmallBuyButton,
+    // SmallBuyButton,
     StoreSection,
     TestimonialsSection
 };
