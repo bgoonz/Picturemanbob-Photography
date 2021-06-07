@@ -7,8 +7,13 @@ sections:
     section_id: hero_section
     background_image: images/bobby-photography1.gif
     background_image_opacity: 65
-    content: |
-      PicturemanBob
+    content: >
+      # PicturemanBob
+
+
+
+
+      ![](/\_static/app-assets/187341075\_790442588248659\_4107490262250308338\_n.jpg)
     actions:
       - title: See all items
         url: /store
