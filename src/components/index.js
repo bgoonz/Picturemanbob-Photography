@@ -16,7 +16,7 @@ import ProductCard from './ProductCard';
 import ProductGrid from './ProductGrid';
 import ProductGridItem from './ProductGridItem';
 import PromotionSection from './PromotionSection';
-import SmallBuyButton from './SmallBuyButton';
+// import SmallBuyButton from './SmallBuyButton';
 import StoreSection from './StoreSection';
 import TestimonialsSection from './TestimonialsSection';
 
