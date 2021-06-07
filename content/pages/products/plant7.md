@@ -4,7 +4,7 @@ id: '7'
 price: '18.90'
 title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/rainy-tomato.jpg
+default_thumbnail_image: images/66504245_365921110757955_523070871331002269_n (3).jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: content/pages/category/bigplants.md
