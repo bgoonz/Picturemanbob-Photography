@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/70873286_2392895287496736_6711231222272037924_n (2).jpg
+    background_image: images/66504245_365921110757955_523070871331002269_n (3).jpg
     background_image_opacity: 65
     content: >
       # PicturemanBob
