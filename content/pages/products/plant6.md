@@ -2,7 +2,7 @@
 layout: product
 id: '6'
 price: ''
-title: Donec finibus
+title: Catskill Mountians
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/futuristic-dolphin.PNG
 default_original_image: images/plant6-lg.jpg
