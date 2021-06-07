@@ -18,7 +18,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: ''
+      value: ''
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: product
 ---
