@@ -1,5 +1,4 @@
 ---
-title: 'Trapped in Hexagons! '
 layout: category
 order: 2
 seo:
