@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: from $149.99
+    subtitle: make a donation
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
