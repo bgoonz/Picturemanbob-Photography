@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/caring-coriander.PNG
-    background_image_opacity: 40
+    background_image_opacity: 75
     content: |
       # PicturemanBob
 
