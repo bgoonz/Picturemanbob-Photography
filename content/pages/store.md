@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: It has been my mission to document the experiences of everyday people.
-    subtitle: make a donation
+    subtitle: Please consider supporting me in my work.
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
