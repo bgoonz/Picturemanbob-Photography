@@ -3,9 +3,8 @@ layout: product
 id: '1'
 title: Graffiti Pier
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  11.17.2020 Portrait 3/3 Polaroid Slr 680 shot with metallic nights itype film
+  ;) #polaroidphotochallenge #mypolaroidnow #picturemanbob
 default_thumbnail_image: images/graph.PNG
 default_original_image: images/plant1-lg.jpg
 featured: true
