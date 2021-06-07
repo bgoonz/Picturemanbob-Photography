@@ -36,7 +36,6 @@ sections:
     title: Live in Brooklyn
     testimonials:
       - author:
-          name: John Dope
           location: 'Colorado, USA'
       - author:
           name: Major Payne
