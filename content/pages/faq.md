@@ -7,9 +7,7 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Behold our FAQ
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: "This challenge was given to us by\_[@instantfilmsociety](https://www.instagram.com/instantfilmsociety/)’s Polacon Bay Area 3! I thought it was a fun prompt and I’d love it to be seen! List is in no order, just wanted to highlight those who participated! Will add more to the list if more people participate!\n\n"
   - type: faq_section
     section_id: faq_section
     questions:
