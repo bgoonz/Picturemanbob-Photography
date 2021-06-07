@@ -57,7 +57,7 @@ sections:
     cta:
       title: Discover
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 seo:
   title: Planty Theme
