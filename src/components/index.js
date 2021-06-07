@@ -63,7 +63,7 @@ export default {
     ProductGrid,
     ProductGridItem,
     PromotionSection,
-    SmallBuyButton,
+    // SmallBuyButton,
     StoreSection,
     TestimonialsSection
 };
