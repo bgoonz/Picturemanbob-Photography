@@ -15,7 +15,7 @@ sections:
 
       ![](/\_static/app-assets/187341075\_790442588248659\_4107490262250308338\_n.jpg)
     actions:
-      - title: See all items
+      - title: See More
         url: /store
         arrow: true
         style: primary
