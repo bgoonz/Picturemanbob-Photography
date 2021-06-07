@@ -18,7 +18,7 @@ sections:
         style: primary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Top Pics
+    title: "Top Pics\_\U0001F4F8"
     icon: true
     light_title: true
     featured_products:
