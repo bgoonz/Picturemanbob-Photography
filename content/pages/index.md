@@ -37,7 +37,6 @@ sections:
     testimonials:
       - author: {}
       - author:
-          name: Major Payne
           location: 'VA, USA'
   - type: promotion_section
     section_id: promotion_section
