@@ -35,9 +35,15 @@ sections:
     section_id: Shooting Polaroids
     title: Live in Brooklyn
     testimonials:
-      - author: {}
       - author:
+          name: John Dope
+          location: 'Colorado, USA'
+      - author:
+          name: Major Payne
           location: 'VA, USA'
+        text: >-
+          Well I'll be d*mned. These plants really ARE greener than any of my
+          recruits.
   - type: promotion_section
     section_id: promotion_section
     title: Buy My Shit
