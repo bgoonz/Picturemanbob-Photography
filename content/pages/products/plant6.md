@@ -35,7 +35,9 @@ seo:
       value: images/plant6-lg.jpg
       relativeUrl: true
 ---
+## 08.29.2020 “Fallskills” 
 
-# Donec finibus
 
-Cras molestie faucibus ipsum ut vulputate. Suspendisse potenti. Donec nec diam odio. Nam ut tempus odio. Vivamus at vehicula felis. Ut ex ante, feugiat at risus eget, facilisis iaculis ex. Suspendisse sagittis sed turpis nec tincidunt. Suspendisse ac venenatis nibh. Pellentesque non maximus lacus, in commodo sapien. Nulla facilisi. Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis volutpat massa dolor id purus. Suspendisse et lobortis dui. Maecenas pretium blandit ex id lobortis. Vestibulum eget sapien vitae nibh porttitor bibendum sed eget nibh.
+
+HEY EVERYONE! I’m applying to be the newest [#PureGoldCEO](https://www.instagram.com/explore/tags/puregoldceo/) for [@michelobultra](https://www.instagram.com/michelobultra/)! If selected I’d get to travel around the US for 6 months taking pictures of the great outdoors.
+
