@@ -8,7 +8,7 @@ description: >-
   volutpat massa dolor id purus.
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
-featured: false
+featured: true
 order: 4
 category: content/pages/category/bigplants.md
 seo:
