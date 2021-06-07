@@ -52,7 +52,8 @@ sections:
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum
-    mapUrl: lorem-ipsum
+    mapUrl: >-
+      https://www.google.com/maps/place/Fair+Lawn,+NJ+07410/data=!4m2!3m1!1s0x89c2fb794b3dd2ad:0xa62e9978c8bf5d71?sa=X&ved=2ahUKEwiSsJvUrIXxAhVMHM0KHXDSA78Q8gEwAHoECAQQAQ
     type: contact_section
 seo:
   title: Planty Theme
