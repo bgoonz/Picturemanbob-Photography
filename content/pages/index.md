@@ -32,7 +32,7 @@ sections:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
   - type: testimonials_section
-    section_id: testimonials_section
+    section_id: Shooting Polaroids
     title: Testimonials
     testimonials:
       - author:
