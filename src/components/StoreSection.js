@@ -14,7 +14,7 @@ export default class StoreSection extends React.Component {
         return (
             <section className="content__row" data-id={_.get(section, 'section_id', null)}>
                 <div className="content__row content__row--direction-row store__head">
-                    <h1 className="store__title">All Products</h1>
+                    <h1 className="store__title">All Projects</h1>
                 </div>
                 <div className="content__row store__container">
                     <nav className="store__nav">
