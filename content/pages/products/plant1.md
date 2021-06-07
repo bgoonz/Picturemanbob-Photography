@@ -10,7 +10,6 @@ default_thumbnail_image: images/66093435_663873930757974_2941047455815812210_n.j
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
-category: content/pages/category/bigplants.md
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
