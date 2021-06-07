@@ -4,7 +4,7 @@ id: '3'
 price: ''
 title: Broadway-Lafayette Station
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/senic.PNG
+default_thumbnail_image: images/pink-crane.PNG
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
