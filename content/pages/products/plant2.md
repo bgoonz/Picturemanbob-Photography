@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: ''
-title: Integer porta
+title: Famous Last Words
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/67801908_153392209104289_2887695610306986414_n.jpg
 default_original_image: images/plant2-lg.jpg
