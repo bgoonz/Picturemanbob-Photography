@@ -39,9 +39,6 @@ sections:
       - author:
           name: Major Payne
           location: 'VA, USA'
-        text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
   - type: promotion_section
     section_id: promotion_section
     title: Buy My Shit
