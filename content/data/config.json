@@ -8,7 +8,7 @@
     "bg_image_primary": "images/para.PNG",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
-    "bg_image_product": "/images/leaf.svg",
+    "bg_image_product": "images/bar.gif",
     "snipcart_api_key": "",
     "footer_text": "Copyright 2021 Bobby Grecco . All rights reserved.",
     "palette": "cyan",
