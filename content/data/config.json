@@ -41,13 +41,6 @@
             "style": "primary",
             "arrow": false,
             "type": "action"
-        },
-        {
-            "title": "lorem-ipsum",
-            "url": "#",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
         }
     ],
     "domain": "https://futuristic-rosemary-d4acc.netlify.app"
