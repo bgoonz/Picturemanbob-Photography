@@ -1,5 +1,5 @@
 ---
-title: Instant Gratification
+title: Section Title
 layout: category
 order: 1
 seo:
