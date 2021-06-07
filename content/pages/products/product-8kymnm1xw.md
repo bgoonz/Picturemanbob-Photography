@@ -1,5 +1,5 @@
 ---
-id: lorem-ipsum
+id: Video
 title: lorem-ipsum
 description: lorem-ipsum
 order: 0
