@@ -50,7 +50,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Buy My Shit
     subtitle: from $149.99
     image: images/bobby-photography1.gif
     background_image: images/leaf.svg
