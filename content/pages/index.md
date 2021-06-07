@@ -7,13 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/backdrop.PNG
     background_image_opacity: 65
-    content: >
+    content: |
       # PicturemanBob
 
-
-
-
-      ![](/\_static/app-assets/187341075\_790442588248659\_4107490262250308338\_n.jpg)
+      ![](/\_static/app-assets/bobby.PNG)
     actions:
       - title: See More
         url: /store
