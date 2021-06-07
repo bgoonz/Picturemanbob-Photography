@@ -18,7 +18,7 @@ sections:
     title: It has been my mission to document the experiences of everyday people.
     subtitle: Please consider supporting me in my work.
     image: images/promo.jpg
-    background_image: /images/leaf.svg
+    background_image: images/kind-moon.PNG
     cta:
       title: Contribute
       url: /store
