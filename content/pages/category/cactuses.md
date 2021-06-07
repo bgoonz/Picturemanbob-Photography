@@ -1,5 +1,8 @@
 ---
-title: Cactuses
+title: >-
+  Trapped in Hexagons! submission for @polaroid’s #polaroidphotochallenge
+  #picturemanbob #mypolaroidnow #instant #polaroidweek2021 #roidweek
+  #polaroidweek #bleekerstreet
 layout: category
 order: 2
 seo:
