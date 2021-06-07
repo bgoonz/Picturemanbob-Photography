@@ -33,7 +33,7 @@ sections:
       - content/pages/category/cactuses.md
   - type: testimonials_section
     section_id: Shooting Polaroids
-    title: Testimonials
+    title: Live in Brooklyn
     testimonials:
       - author:
           name: John Dope
