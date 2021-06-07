@@ -34,7 +34,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Buy My Shit
-    subtitle: starting from $ALLYOURMONEY
+    subtitle: starting from $GIVE ME ALL YOUR MONEY
     image: images/bobby-photography2.gif
     background_image: images/67119651_2342430852738426_3460827191209430300_n.jpg
     cta:
