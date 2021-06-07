@@ -51,7 +51,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Buy My Shit
-    subtitle: from $149.99
+    subtitle: starting from $ALLYOURMONEY
     image: images/bobby-photography1.gif
     background_image: images/leaf.svg
     cta:
