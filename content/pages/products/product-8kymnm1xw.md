@@ -1,6 +1,6 @@
 ---
 id: Video
-title: lorem-ipsum
+title: Live In Brooklyn
 description: lorem-ipsum
 order: 0
 featured: false
