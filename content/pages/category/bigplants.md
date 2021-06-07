@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Instant Gratification
 layout: category
 order: 1
 seo:
