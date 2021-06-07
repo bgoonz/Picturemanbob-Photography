@@ -53,7 +53,7 @@ sections:
     title: Buy My Shit
     subtitle: starting from $ALLYOURMONEY
     image: images/bobby-photography1.gif
-    background_image: images/leaf.svg
+    background_image: images/70873286_2392895287496736_6711231222272037924_n (2).jpg
     cta:
       title: Discover
       url: /store
