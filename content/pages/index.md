@@ -49,7 +49,7 @@ sections:
       style: primary
       arrow: true
   - section_id: lorem-ipsum
-    address: lorem-ipsum
+    address: Only call me if you wanna reach me
     phone: +1 201-218-6277
     email: bobywhatsuremail@gmail.com
     mapUrl: >-
