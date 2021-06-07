@@ -16,7 +16,8 @@
         {
             "title": "Services",
             "url": "/store",
-            "style": "link"
+            "style": "link",
+            "arrow": true
         },
         {
             "title": "About",
