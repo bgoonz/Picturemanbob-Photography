@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/imageedit_1_3476350042.png
+    background_image: images/bobby-photography1.gif
     background_image_opacity: 65
     content: >
       # PicturemanBob
