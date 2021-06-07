@@ -2,7 +2,7 @@
 layout: product
 id: '4'
 price: ''
-title: Cras molestie
+title: Tiny Wizard Lifts Large Block
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/68959270_162175291620495_4655976384139882510_n.jpg
 default_original_image: images/plant4-lg.jpg
