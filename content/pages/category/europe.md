@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Pictures From Far Away lands
 layout: category
 order: 3
 seo:
