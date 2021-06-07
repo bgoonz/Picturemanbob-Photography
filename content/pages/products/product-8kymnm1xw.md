@@ -13,7 +13,7 @@ description: >-
   SUBSCRIBE TO THE MAILING LIST https://www.intheneighborhood.shop/su...  DONATE
   TO THE CHANNEL CASHAPP - $PVNYC VENMO - INTHENEIGHBORHOOD
 order: 0
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
