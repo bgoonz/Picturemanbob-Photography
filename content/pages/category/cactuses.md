@@ -1,8 +1,5 @@
 ---
-title: >-
-  Trapped in Hexagons! submission for @polaroid’s #polaroidphotochallenge
-  #picturemanbob #mypolaroidnow #instant #polaroidweek2021 #roidweek
-  #polaroidweek #bleekerstreet
+title: 'Trapped in Hexagons! '
 layout: category
 order: 2
 seo:
