@@ -10,7 +10,9 @@ default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
 seo:
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: >-
+    11.17.2020 Portrait 3/3 Polaroid Slr 680 shot with metallic nights itype
+    film ;) #polaroidphotochallenge #mypolaroidnow #picturemanbob
   extra:
     - name: 'og:type'
       value: website
