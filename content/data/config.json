@@ -32,7 +32,7 @@
             "title": "Instagram",
             "url": "https://www.instagram.com/picturemanbob/",
             "style": "primary",
-            "arrow": false,
+            "arrow": true,
             "type": "action"
         }
     ],
