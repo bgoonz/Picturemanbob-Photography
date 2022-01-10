@@ -27,7 +27,7 @@
     "react-html-parser": "2.0.2",
     "react-script-tag": "1.1.2",
     "sourcebit": "0.11.0",
-    "sourcebit-source-filesystem": "0.1.6",
+    "sourcebit-source-filesystem": "0.2.0",
     "sourcebit-target-next": "0.5.2",
     "sprintf-js": "1.1.2"
   }
